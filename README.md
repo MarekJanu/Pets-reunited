@@ -25,19 +25,21 @@ We hope that our Lost Pets app will help reunite lost pets with their owners qui
 - Expo
 - Xcode
 
+
 ## _Installation_ 
 
 - Clone the repository onto your local machine
 - Install the necessary dependencies using npm install
 - Start the app using npm start
 
+
 ## _Contributors_
 
-- [nickkagame](https://github.com/nickkagame)
-- [manheicatherine](https://github.com/manheicatherine)
-- [YoriB](https://github.com/YoriB)
 - [Luke95G](https://github.com/Luke95G)
-- [Marek Januszewski](https://github.com/MarekJanu)
+- [manheicatherine](https://github.com/manheicatherine)
+- [nickkagame](https://github.com/nickkagame)
+- [YoriB](https://github.com/YoriB)
+
 
 ## _Demo_
 
